@@ -1,16 +1,7 @@
-# expensetracker
+# Money Manager
+# Screenshorts
+![tracker1](https://github.com/user-attachments/assets/c4e0b8b5-f244-4436-9971-33c8d541fc39)
 
-A new Flutter project.
+![trracker2](https://github.com/user-attachments/assets/b84690d6-6c67-45ee-836e-0eb350965a11)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![tracker3](https://github.com/user-attachments/assets/780bd021-9426-4824-be81-37fcc14959cd)
