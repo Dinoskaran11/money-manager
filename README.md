@@ -1,7 +1,8 @@
 # Money Manager
 # Screenshorts
-![tracker1](https://github.com/user-attachments/assets/c4e0b8b5-f244-4436-9971-33c8d541fc39)
 
-![trracker2](https://github.com/user-attachments/assets/b84690d6-6c67-45ee-836e-0eb350965a11)
+![exp1](https://github.com/user-attachments/assets/3508c254-2540-437e-9f89-a08d0e483220)
 
-![tracker3](https://github.com/user-attachments/assets/780bd021-9426-4824-be81-37fcc14959cd)
+![exp2](https://github.com/user-attachments/assets/f43e3ba5-c1b3-4053-8308-0f5b507a5120)
+
+![exp3](https://github.com/user-attachments/assets/cda1b8cc-0e33-47f9-8518-8d3b971c03a5)
